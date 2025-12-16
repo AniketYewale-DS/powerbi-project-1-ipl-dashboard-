@@ -1,10 +1,10 @@
 
 ## 🏏 IPL Power BI Dashboard  (2008–2022)
 
-![IPL Dashboard](dashboard img.png)
+<p align="center">
+  <img src="dashboard img.png" width="900"/>
+</p>
 
-
-dashboard img.png
 
 
 ## 📌 Project Overview
