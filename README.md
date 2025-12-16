@@ -1,5 +1,11 @@
 # 🏏 IPL Dashboard Analysis (2008–2022)
 
+
+## 🏏 IPL Power BI Dashboard
+
+![IPL Dashboard](ipldashboard.png)
+
+
 ## 📌 Project Overview
 The **IPL Dashboard Analysis** project is a comprehensive **data analytics and visualization solution** that analyzes Indian Premier League (IPL) data from **2008 to 2022**.  
 The goal of this project is to extract **meaningful insights from historical IPL data** related to team performance, player achievements, match results, and venue trends.
