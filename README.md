@@ -1,9 +1,9 @@
 # 🏏 IPL Dashboard Analysis (2008–2022)
 
 
-## 🏏 IPL Power BI Dashboard
 
-![IPL Dashboard](ipldashboard.png)
+
+![IPL Dashboard](dashboard img.png)
 
 
 ## 📌 Project Overview
