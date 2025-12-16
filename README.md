@@ -1,7 +1,7 @@
 
 ## 🏏 IPL Power BI Dashboard  (2008–2022)
 
-![IPL Dashboard](dashboardimg.png)
+![IPL Dashboard](dashboard img.png)
 
 
 dashboard img.png
